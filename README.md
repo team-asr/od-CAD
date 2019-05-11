@@ -6,5 +6,9 @@ These are as elaborate as needed for your to build your own drone. They also pro
 To develop your own drone using these files, acquire the profile side you require and cut it using your prefered material. We are fond of plywood. Acquire side profiles and top and bottom profiles and you now have your complete fuselage.
 You now require electronics and wiring them together.
 
-Licensing Terms:
+## Support/ Engagement
+
+We'd love to hear from you. You can post a comment or request for additional information using team-asr(at)as-research.org or visit www.as-research.org and use the contacts page.
+
+## Licensing Terms:
 Work and material herein is released under a GNU General Public License. A copy of license terms can be found here: https://www.gnu.org/licenses/gpl.html
