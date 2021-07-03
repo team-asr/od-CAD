@@ -1,0 +1,21 @@
+Use EPP or XPS foam sheeting and cut front, side and top profiles on the block.
+Templates are made by printing each profile and tracing out templates from plywood profiles.
+For instance. Print image heavy-right.png and attach it to a plywood sheet. Cut out the image only showing the 
+body profile (ignore propellers and motors for now). Make two plywood templates this way.
+Run a hotwire through your sheet of foam and you will have the fuselage bearing the side profile.
+To create the top profile, repeat the process using the top image.
+If you'd like some assistance or any questions email: team-asr[at]as-research.org
+
+Notes on making the fuselage capable of load bearing:
+Re-enforce the body after cutting it using the hotwire by:
+1. Slice the fuselage in half.
+2. Cut out payload area, and electronics areas as required.
+3. Attach plywood bulkheads to make the fuselage stiff as appropriate.
+4. Use epoxy resign to strengthen the areas as required.
+5. Re-assemble the fuselage and cover it in epoxy resign and fiberglass cloth
+Notes on selection of propulsion
+1. Use propellers rated above the weight of the entire vehicle, calculated as the all-up weight
+(payload + empty aircraft weight)
+2. Use motors and motor mounts whos cumulative thrust exceeds all-up weight.
+3. Use heavy-gauge wire for power deliver from the lipo battery. SAFETY IS PARAMOUNT.
+OBSERVE ALL NECESSARY PRECAUTIONS TO ENSURE RISK OF SHORT CIRCUIT IS MITIGATED
