@@ -1,3 +1,0 @@
-HP
-DESKTOP-L0NK04U 
-Tuesday, November 24, 2020  9:41:15 PM
